@@ -5,11 +5,13 @@
 
 body {
     font-family: "Claire";
-    /*background-color: rgb(241, 244, 247);*/
+    background-color: rgb(241, 244, 247);
     background-image: url("ankka.jpg");
     background-position: 50% 0%;
     background-repeat: no-repeat;
     background-size: cover;
+}
 
-
+h1 {
+    font-size: 3em;
 }
