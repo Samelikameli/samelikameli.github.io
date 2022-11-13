@@ -5,39 +5,11 @@
 
 body {
     font-family: "Claire";
-    background-color: rgb(241, 244, 247);
-}
+    /*background-color: rgb(241, 244, 247);*/
+    background-image: url("ankka.jpg");
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
 
-h1 {
-    font-weight: 200;
-}
 
-@media (min-width: 858px) {
-    html {
-        font-size: 16px;
-    }
-}
-
-@media (min-width: 780px) {
-    html {
-        font-size: 15px;
-    }
-}
-
-@media (min-width: 702px) {
-    html {
-        font-size: 14px;
-    }
-}
-
-@media (min-width: 624px) {
-    html {
-        font-size: 13px;
-    }
-}
-
-@media (max-width: 623px) {
-    html {
-        font-size: 12px;
-    }
 }
